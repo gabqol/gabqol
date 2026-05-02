@@ -2,12 +2,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg](https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994" width="100%" alt="banner](https://github.com/gabqol/gabqol/issues/1#issue-4370303518)"/>
 </div>
-https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994
 <!-- TITLE -->
 
 
 <div align="center">
-  <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F7E7&width=435&lines=Gabriell+Ribeiro+-+It+Especialist)](https://git.io/typing-svg". alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F7E7&width=435&lines=Gabriell+Ribeiro+-+It+Especialist)](https://git.io/typing-svg". alt="Typing SVG"/>
 </div>
 
 <br/>
