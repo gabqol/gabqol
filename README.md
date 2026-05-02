@@ -79,7 +79,7 @@ an IT Technician and Computer Science student, passionate about technology and c
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabqol&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
 
 </div>
 
