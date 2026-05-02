@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg](https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994" width="100%" alt="banner](https://github.com/gabqol/gabqol/issues/1#issue-4370303518)"/>
+  <img src="<img width="498" height="343" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
+"/>
 </div>
 <!-- TITLE -->
 <div align="center">
