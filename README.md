@@ -1,8 +1,6 @@
 <!-- BANNER -->
-<div align="center">
-  <img src="<img width="498" height="343" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
-"/>
-</div>
+<img width="498" height="343" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
+
 <!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F7E7&width=435&lines=Gabriell+Ribeiro+-+It+Specialist". alt="Typing SVG"/>
