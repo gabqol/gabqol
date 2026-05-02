@@ -1,6 +1,7 @@
 <!-- BANNER -->
-<img width="896" height="586" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
-
+<div align="center">
+  <img width="896" height="586" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
+</div>
 <!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F7E7&width=435&lines=Gabriell+Ribeiro+-+It+Specialist". alt="Typing SVG"/>
@@ -20,8 +21,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -37,8 +36,10 @@ I am an IT Technician and Computer Science student, passionate about technology 
 <br clear="right"/>
 
 
-## Technologies
+<div align="center">
 
+## Technologies
+</div>
 <div align="center">
 
 <div style="display: inline_block"><br/>
@@ -50,24 +51,14 @@ I am an IT Technician and Computer Science student, passionate about technology 
 
 ## Statistics
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
-</div>
-
----
-
-## 📜 Contribution Graph
+## 📜 Contribuições
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabqol&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+
+
 
 </div>
 
