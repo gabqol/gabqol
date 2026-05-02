@@ -1,8 +1,8 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner](https://github.com/gabqol/gabqol/issues/1#issue-4370303518)"/>
+  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg](https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994" width="100%" alt="banner](https://github.com/gabqol/gabqol/issues/1#issue-4370303518)"/>
 </div>
-<div class="tenor-gif-embed" data-postid="21134994" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/dark-souls2-from-software-trailer-gif-21134994">Dark Souls2 From Software GIF</a>from <a href="https://tenor.com/search/dark+souls2-gifs">Dark Souls2 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994
 <!-- TITLE -->
 
 
