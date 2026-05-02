@@ -7,7 +7,7 @@ https://tenor.com/pt-BR/view/dark-souls2-from-software-trailer-gif-21134994
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=531AF7&width=435&lines=Gabriell+Ribeiro+-+It+Especialist)](https://git.io/typing-svg". alt="Typing SVG"/>
+  <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5F7E7&width=435&lines=Gabriell+Ribeiro+-+It+Especialist)](https://git.io/typing-svg". alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -41,14 +41,6 @@ an IT Technician and Computer Science student, passionate about technology and c
 <br clear="right"/>
 
 
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
-
----
-
 ## Technologies
 
 <div align="center">
@@ -80,27 +72,6 @@ an IT Technician and Computer Science student, passionate about technology and c
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabqol&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
-
-</div>
-
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
-
-<div align="center">
-
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
 
 </div>
 
