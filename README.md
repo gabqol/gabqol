@@ -1,5 +1,5 @@
 ## Gabriell dos Santos Ribeiro
-https://github.com/user-attachments/assets/7f5f04b9-176c-4ab5-b91b-18d3150cc2ea
+
 <p align="center">Técnico em TI e estudante de Ciência da Computação.
 Sempre a procura de soluções e buscando novos desafios que a ciência e a tecnologia podem resolver. 
 
