@@ -27,11 +27,11 @@
 
 ---
 
-**It Especialist**
+**It Specialist**
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+> *"The only way to do great work is to love what you do."*
 
-an IT Technician and Computer Science student, passionate about technology and constantly seeking new knowledge to grow professionally. I have practical experience in computer assembly and maintenance, electronic repairs, and IT infrastructure, which gives me a broad and adaptable perspective on technological challenges.
+I am an IT Technician and Computer Science student, passionate about technology and constantly seeking new knowledge to grow professionally. I have practical experience in computer assembly and maintenance, electronic repairs, and IT infrastructure, which gives me a broad and adaptable perspective on technological challenges.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
 
