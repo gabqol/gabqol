@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img width="498" height="343" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
+<img width="896" height="586" alt="Image" src="https://github.com/user-attachments/assets/8cacf593-8ce4-4f99-9ac6-5b2605a25705" />
 
 <!-- TITLE -->
 <div align="center">
